@@ -1,0 +1,37 @@
+                                                    +                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+             Button is                              |                                  
+             pressed and                            |                                  
+             first contact is made                  |       Button is pressed          
+                   +                                |             +                    
+                   |                                |             |                    
+                   v                                |             v                    
+                                                    |                                  
+                   XXXXXXX   XXXX XXXXXXXXXXXXXXXXXX|XXXXXXXXXXXXXXXXXXXXXXXXX         
+                   X     X   X  X X                 |                                  
+                   X     X   X  X X                 |                                  
+                   X     X   X  X X                 |                                  
+                   X     X   X  X X                 |                                  
+                   X     X   X  X X                 |                                  
+                   X     X   X  X X                 |                                  
+                   X     X   X  X X                 |                                  
++--XXXXXXXXXXXXXXXXX-----XXXXX--XXX----------------------------------------------+ Time
+                                                    |                                  
+         ^         ^              ^                 |                                  
+         |         |              |                 |                                  
+         +         +-+ Bouncing +-+                 |                                  
+   Button is not       period                       |                                  
+   being pressed                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    |                                  
+                                                    +                                  
+                                                 Voltage                               
